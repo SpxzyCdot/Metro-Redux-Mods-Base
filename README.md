@@ -13,4 +13,4 @@ This injects C++ DLL, to make mods you will need memory modification and offsets
 an SDK might be made to make it easier
 
 # Reminder #2
-This project is fully vibe coded
+This project is fully vibe coded and is intended for educational purpouses
