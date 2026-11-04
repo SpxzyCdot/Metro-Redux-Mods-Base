@@ -1,4 +1,4 @@
-# Metro-Redux-Mods-Base
+# Metro Mods Injector
 Free Open Source Auto Injector for the Metro Redux Saga (2033 and Last light)
 
 Instructions : Run the program (it will auto find/install 2033 and Last Light)
